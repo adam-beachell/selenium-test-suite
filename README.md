@@ -23,3 +23,7 @@ This basic calculator prompts the user for a simple operator (+, -, *, /) follow
 > Enter first number: 2  
 > Enter second number: 3  
 > Result: 2.0 + 3.0 = 5.0
+
+## renamer.py
+This utility renames a file passed to it with a new name given. If the new name is the same as the previous no renaming is performed.
+Renaming is case-sensitive. The file to be renamed must include the full path. A confirmation is presented before renaming.
